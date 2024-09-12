@@ -1,4 +1,8 @@
 # Fluke-8060A-LED-LCD
+## PCB for the Fluke 8060A's LCD but converted to LED.
+### Inspired by ModemHead, ogdento, retiredcaps, DrTaylor, Dave and everyone else at EEVBlog.
+All work was done intermittently through 20/4/2023 - 8/2/2024. Posted for historical and contributional reasons. This PCB has never been made, it's only a proof of concept. There are probably errors.
+
 ## Fluke 8060A is simply the best.
 This is mostly a KiCAD project for the LED PCB, with some extra photos, PDFs, and various things related to the 8060A.
 
@@ -6,13 +10,7 @@ You can load an older version of the KiCAD project in the `Fluke_LCD/Fluke_LCD-b
 
 You'd have to solder wires from the LED PCB to the actual Fluke mainboard, probably modify the LCD support bracket as well. 
 
-### PCB for the Fluke 8060A's LCD but converted to LED.
-Inspired by ModemHead, ogdento, retiredcaps, DrTaylor, Dave and everyone else at EEVBlog.
-
 ### Renders
 ![alt text](/Renders/Trace_Render.png)
 ![alt text](/Renders/Top_Render.png)
 ![alt text](/Renders/Bottom_Render.png)
-
-### Extra Information
-All work was done intermittently through 20/4/2023 - 8/2/2024. Posted for historical and contributional reasons. This PCB has never been made, it's only a proof of concept.
