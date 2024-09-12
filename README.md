@@ -10,6 +10,8 @@ You can load an older version of the KiCAD project in the `Fluke_LCD/Fluke_LCD-b
 
 You'd have to solder wires from the LED PCB to the actual Fluke mainboard, probably modify the LCD support bracket as well. 
 
+I'd love to create a 3D print of an LED plastic overlay for it as well, similar to ModemHead's work. The PCB should be finalized first as to reduce the number of 3D print revisions. 
+
 ### Renders
 ![alt text](/Renders/Trace_Render.png)
 ![alt text](/Renders/Top_Render.png)
