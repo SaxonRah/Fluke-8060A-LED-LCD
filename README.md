@@ -16,3 +16,4 @@ I'd love to create a 3D print of an LED plastic overlay for it as well, similar 
 ![alt text](/Renders/Trace_Render.png)
 ![alt text](/Renders/Top_Render.png)
 ![alt text](/Renders/Bottom_Render.png)
+![alt text](/Renders/Schematic.png)
