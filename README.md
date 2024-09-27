@@ -15,8 +15,3 @@ This is mostly a KiCAD project for the LED PCB, with some extra photos, PDFs, an
 ![alt text](/Renders/TempLayoutTraces.png)
 ![alt text](/Renders/TempLayoutPrintedFitted.png)
 ![alt text](/Renders/TempLayoutPrintedElasto.png)
-
-### Old Renders
-![alt text](/Renders/Trace_Render.png)
-![alt text](/Renders/Top_Render.png)
-![alt text](/Renders/Bottom_Render.png)
