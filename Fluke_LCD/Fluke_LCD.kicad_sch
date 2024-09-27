@@ -2941,7 +2941,7 @@
     (property "Value" "Conn_01x23" (at 124.46 195.58 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x22_P1.00mm_Vertical" (at 124.46 189.23 0)
+    (property "Footprint" "FlukeLibrary:Fluke_8060A_LCD_ElastoPads" (at 124.46 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 124.46 189.23 0)
